@@ -1,0 +1,16 @@
+= Open Source Development
+
+== Readings
+
+* http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/[The Cathedral And the Bazaar]
+* http://producingoss.com/en/index.html[Producing Open Source Software]
+* http://www.catb.org/esr/faqs/smart-questions.html[How to ask questions the smart way]
+
+== Labs
+
+* Lab 1: Git and hosting setup
+
+== Agenda
+
+* https://www.youtube.com/watch?v=k84FMc1GF8M[Revolution OS]
+* https://www.gnu.org/philosophy/license-list.html[Licenses galore]
