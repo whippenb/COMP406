@@ -2,15 +2,68 @@
 
 == Readings
 
+=== Definitions
+
+What is free software?
+What is open source software?
+What's the difference?
+What's the difference among the licenses?
+
+* https://www.gnu.org/philosophy/free-sw.html[Free software definition]
+* http://opensource.org/osd-annotated[Open source definition]
+* https://www.gnu.org/philosophy/license-list.html[Licenses galore]
+* http://gabriellacoleman.org/Coleman-Coding-Freedom.pdf[Coding Freedom]
+
+=== Historical background
+
+When did open source software start?
+What were the major accomplishments?
+Who were the key players?
+What has changed over the decades?
+
+* https://www.youtube.com/watch?v=k84FMc1GF8M[Revolution OS]
 * http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/[The Cathedral And the Bazaar]
+* http://shop.fsf.org/product/free-software-free-society-2/[Free Software, Free Society]
+* http://www.oreilly.com/openbook/opensources/book/index.html[Open Sources: Voices from the Open Source Revolution]
+
+=== Money
+
+Who produces open source software?
+Who pays for it?
+Who profits from it?
+How can open source developers earn a living?
+
+* http://www.catb.org/esr/writings/magic-cauldron/magic-cauldron.html[The Magic Cauldron]
+* http://dreamsongs.com/IHE/IHE.html[Innovation Happens Elsewhere]
+
+=== Studying code
+
+What can we learn from reading source code?
+What can source code teach us about software development?
+
+* http://www.aosabook.org/en/index.html[The Architecture of Open Source Applications]
+* http://neverworkintheory.org/[It Will Never Work in Theory]
+
+=== Writing open source software
+
+How does one go about running and/or contributing to an open source project?
+
 * http://producingoss.com/en/index.html[Producing Open Source Software]
+* http://open-advice.org/[Open Advice: FOSS: What We Wish We Had Known When We Started]
 * http://www.catb.org/esr/faqs/smart-questions.html[How to ask questions the smart way]
 
-== Labs
+=== Further reading
 
-* Lab 1: Git and hosting setup
+Need more books to read?
+
+* https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#open-source-ecosystem[Gigantic list of free programming books]
+* https://opensource.com/resources/ebooks[Open source reading list]
 
 == Agenda
 
-* https://www.youtube.com/watch?v=k84FMc1GF8M[Revolution OS]
-* https://www.gnu.org/philosophy/license-list.html[Licenses galore]
+* Git and hosting setup
+* Reading groups, breakouts and discussion
+* Study (and contribute to) an open source project
+** https://openhatch.org/[Open Hatch]
+** https://github.com/explore[Trending repositories]
+** https://www.google-melange.com/gsoc/org/list/public/google/gsoc2015[GSOC 2015]
