@@ -39,6 +39,14 @@ How can open source developers earn a living?
 * http://www.catb.org/esr/writings/magic-cauldron/magic-cauldron.html[The Magic Cauldron]
 * http://dreamsongs.com/IHE/IHE.html[Innovation Happens Elsewhere]
 
+=== Git
+
+Git. What is it good for?
+
+* https://www.youtube.com/watch?v=1ffBJ4sVUb4[Git for ages 4 and up]
+* http://rypress.com/tutorials/git/index[Ry's Git Tutorial]
+* http://www-cs-students.stanford.edu/~blynn/gitmagic/[Git Magic]
+
 === Studying code
 
 What can we learn from reading source code?
