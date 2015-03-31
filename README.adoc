@@ -2,6 +2,9 @@
 
 == Readings
 
+TIP: Read the first sentence of every paragraph slowly and carefully,
+then decide whether to skip or read the rest of the paragraph.
+
 === Definitions
 
 What is free software?
