@@ -2,8 +2,28 @@
 
 == Readings
 
-TIP: Read the first sentence of every paragraph slowly and carefully,
-then decide whether to skip or read the rest of the paragraph.
+TIP: Carefully read the first sentence of every paragraph before deciding
+whether to skip or read the rest of the paragraph, since writers often
+state the point upfront and then support it in subsequent sentences.
+In short, you can read quickly with high comprehension by skipping the
+supporting material, if you understand the point and how writers write.
+Obviously, this strategy doesn't always work: not all documents
+fit the topic sentence followed by supporting points structure of essays.
+For example, narratives often instead have dialogue among characters,
+but those are even easier to read quickly than large walls of text.
+Also, some writers put pointless filler in their paragraphs that doesn't
+go anywhere, or even worse, bury the point in the middle of the paragraph.
+But, good writers understand that to get people to read their work, they
+must make their work easy to skim.
+Now, did you see what I just did there?
+If you were thinking, this paragraph is itself a giant wall of text,
+and I could have ignored the rest, and then realized that this is all a
+bit meta, then you not only understand the definition of the
+word meta, but you also ignored my advice about how to speed
+read proving that you are kind of person who does the reading completely.
+Obviously reading the whole paragraph gives you some nuance that can be
+rewarding, but then again, I think we can agree that the first sentence
+captured the rest of this paragraph pretty well.
 
 === Definitions
 
@@ -15,7 +35,6 @@ What's the difference among the licenses?
 * https://www.gnu.org/philosophy/free-sw.html[Free software definition]
 * http://opensource.org/osd-annotated[Open source definition]
 * https://www.gnu.org/philosophy/license-list.html[Licenses galore]
-* http://gabriellacoleman.org/Coleman-Coding-Freedom.pdf[Coding Freedom]
 
 === Historical background
 
@@ -26,8 +45,13 @@ What has changed over the decades?
 
 * https://www.youtube.com/watch?v=k84FMc1GF8M[Revolution OS]
 * http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/[The Cathedral And the Bazaar]
-* http://shop.fsf.org/product/free-software-free-society-2/[Free Software, Free Society]
 * http://www.oreilly.com/openbook/opensources/book/index.html[Open Sources: Voices from the Open Source Revolution]
+
+=== Freedom, Politics, Ethics
+
+* http://dash.harvard.edu/bitstream/handle/1/4455262/Zittrain_Future%20of%20the%20Internet.pdf?sequence=1[The Future of the Internet - And How to Stop It]
+* http://shop.fsf.org/product/free-software-free-society-2/[Free Software, Free Society]
+* http://gabriellacoleman.org/Coleman-Coding-Freedom.pdf[Coding Freedom]
 
 === Money
 
