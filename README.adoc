@@ -99,8 +99,8 @@ How does one go about running and/or contributing to an open source project?
 
 === Beyond software
 
-Do the principles of free and open source software apply beyond software?
-If so, how?
+Who owns culture?
+How do the principles of free and open source software apply beyond software?
 
 * http://www.gnu.org/philosophy/fsfs/rms-essays.pdf[Free software, Free society]
 * http://www.free-culture.cc/freeculture.pdf[Free culture]
