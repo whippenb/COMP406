@@ -4,6 +4,8 @@
 
 === May 8. Lab 1: Prequiz
 
+NOTE: Watch https://www.youtube.com/watch?v=k84FMc1GF8M[Revolution OS] by next week.
+
 Pull from me:
 
 ----
