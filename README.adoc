@@ -1,5 +1,75 @@
 = Open Source Development
 
+== Agenda
+
+=== May 8. Lab 1: Prequiz
+
+Pull from me:
+
+----
+cd ~/COMP406
+# The easy way
+git pull upstream master
+# The leet way
+git fetch upstream
+git merge upstream/master
+# See a CONFLICT? Unlikely at this point
+git mergetool
+----
+
+Open up `prequiz.adoc` in your favorite text editor (it is in your local git repository).
+
+WARNING: Do not use Notepad or Word.
+Use a real text editor. Suggestions:
+http://notepad-plus-plus.org/download/v6.7.7.html[Notepad++] (Windows),
+https://atom.io/[Atom],
+or http://www.sublimetext.com/[Sublime].
+
+Then, save your changes and submit your work to your repository.
+
+----
+cd ~/COMP406
+# The easy way
+git gui &
+# The leet way
+git add .
+git commit -m "Finished prequiz"
+git push -u --all origin
+----
+
+=== May 6. Git and hosting setup
+
+Step 1. Install Git and frontends
+
+[[install-git]]
+Windows:: http://sourceforge.net/projects/gitextensions/[Install Git Extensions]
++
+NOTE: Install MsysGit, Install KDiff, and *choose OpenSSH* (not PuTTY); otherwise,
+stick to the default settings.
++
+image:http://lawrancej.github.io/starterupper/images/what2install.png[Install MsysGit and KDiff]
+image:http://lawrancej.github.io/starterupper/images/openssh.png[Choose OpenSSH]
+
+Mac OS X:: http://rowanj.github.io/gitx/[Install GitX-dev], then https://developer.apple.com/xcode/downloads/[Install XCode developer tools] which ships with git (recommended) or http://git-scm.com/download/mac[install git from here].
+
+Linux:: http://git-scm.com/download/linux[Install git] using your package manager.
+http://sourceforge.net/projects/qgit/[QGit, a git frontend] may also be available for your distribution.
++
+NOTE: Don't forget to use +sudo+ with your package manager.
+
+----
+curl https://raw.githubusercontent.com/lawrancej/COMP406/master/main.sh | bash
+----
+
+== Rest of class
+
+* Reading groups, breakouts and discussion
+* Study (and contribute to) an open source project
+** https://openhatch.org/[Open Hatch]
+** https://github.com/explore[Trending repositories]
+** https://www.google-melange.com/gsoc/org/list/public/google/gsoc2015[GSOC 2015]
+
+
 == Readings
 
 TIP: *Carefully read the first sentence of every paragraph before deciding
@@ -113,37 +183,3 @@ Need more books to read?
 
 * https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#open-source-ecosystem[Gigantic list of free programming books]
 * https://opensource.com/resources/ebooks[Open source reading list]
-
-== Agenda
-
-=== Git and hosting setup
-
-Step 1. Install Git and frontends
-
-[[install-git]]
-Windows:: http://sourceforge.net/projects/gitextensions/[Install Git Extensions]
-+
-NOTE: Install MsysGit, Install KDiff, and *choose OpenSSH* (not PuTTY); otherwise,
-stick to the default settings.
-+
-image:http://lawrancej.github.io/starterupper/images/what2install.png[Install MsysGit and KDiff]
-image:http://lawrancej.github.io/starterupper/images/openssh.png[Choose OpenSSH]
-
-Mac OS X:: http://rowanj.github.io/gitx/[Install GitX-dev], then https://developer.apple.com/xcode/downloads/[Install XCode developer tools] which ships with git (recommended) or http://git-scm.com/download/mac[install git from here].
-
-Linux:: http://git-scm.com/download/linux[Install git] using your package manager.
-http://sourceforge.net/projects/qgit/[QGit, a git frontend] may also be available for your distribution.
-+
-NOTE: Don't forget to use +sudo+ with your package manager.
-
-----
-curl https://raw.githubusercontent.com/lawrancej/COMP406/master/main.sh | bash
-----
-
-== Rest of class
-
-* Reading groups, breakouts and discussion
-* Study (and contribute to) an open source project
-** https://openhatch.org/[Open Hatch]
-** https://github.com/explore[Trending repositories]
-** https://www.google-melange.com/gsoc/org/list/public/google/gsoc2015[GSOC 2015]

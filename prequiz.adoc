@@ -1,0 +1,90 @@
+= Prequiz
+
+== Instructions
+
+Pretend we're taking a closed-book exam and *modify this file* to answer the questions below.
+Don't worry, this is not being graded for correctness: guesses or even admissions of ignorance are okay.
+The point is to asses your knowledge beforehand as a frame of reference.
+Some questions do not assess knowledge, but ask for opinions.
+
+When you are done:
+
+----
+cd ~/COMP406
+# The easy way
+git gui &
+# The leet way
+git add .
+git commit -m "Finished prequiz"
+git push -u --all origin
+----
+
+== Questions
+
+What is free software?
+
+
+
+What is open source software?
+
+
+
+What's the difference?
+
+
+
+What does copyleft mean?
+
+
+
+What does permissive mean?
+
+
+
+What is a license? What's the difference among them?
+
+
+
+When did open source software start?
+
+
+
+What were some major accomplishments in free / open source software?
+
+
+
+Who were the key players in free / open source software?
+
+
+
+How has free / open source software development changed over the decades?
+
+
+
+Why do folks write open source software?
+
+
+
+Who produces open source software?
+
+
+
+Who pays for it?
+
+
+
+Who profits from it?
+
+
+
+Who is in control of your computer?
+
+
+
+What do we give up when we cede control to others? What do we gain?
+
+
+
+Is it okay for others to decide what you can do with your computer? If so, when?
+
+
